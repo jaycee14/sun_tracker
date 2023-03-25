@@ -1,0 +1,35 @@
+Sun Clock / day night terminator links
+
+sunrise sunset calculator
+https://www.omnicalculator.com/physics/sunrise-sunset
+
+online terminator creator
+https://www.maplesoft.com/support/help/maple/view.aspx?path=MathApps%2FDayAndNightTerminator
+
+article on sun position for solar energy
+https://levelup.gitconnected.com/python-sun-position-for-solar-energy-and-research-7a4ead801777
+
+Book from the same author
+https://www.amazon.com/Sun-Position-Astronomical-Algorithm-Programming/dp/1546576258?dchild=1&keywords=sun+position+in+9+programming+languages&qid=1617829550&sr=8-1&linkCode=sl1&tag=solarproud-20&linkId=0b6b1b6a65c7c0dac15709b21deca982&language=en_US&ref_=as_li_ss_tl
+
+
+
+solar hour angle
+https://solarsena.com/solar-hour-angle-calculator-formula/
+
+wikiepdia declination
+https://en.wikipedia.org/wiki/Declination
+
+solar position
+https://assessingsolar.org/notebooks/solar_position.html
+
+3d view of the earth and sun
+https://in-the-sky.org/earthinspace.php?town=2643743
+
+stackexhange terrestial longitude
+https://astronomy.stackexchange.com/questions/12392/math-for-calculating-the-terrestrial-longitude-directly-under-the-sun-with-time
+
+
+source of terminator code
+https://discourse.matplotlib.org/t/basemap-day-and-night/12023
+
